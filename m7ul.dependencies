@@ -1,0 +1,14 @@
+[
+    {
+        "remote":      "github",
+        "repository":  "JohnHoder/android_device_htc_m7ul",
+        "target_path": "device/htc/m7ul",
+        "revision":    "master"
+    },
+    {
+        "remote":      "github",
+        "repository":  "JohnHoder/proprietary_vendor_htc-m7",
+        "target_path": "vendor/htc",
+        "revision":    "master"
+    }
+]
