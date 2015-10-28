@@ -10,5 +10,23 @@
         "repository":  "JohnHoder/proprietary_vendor_htc-m7",
         "target_path": "vendor/htc",
         "revision":    "master"
+    },
+    {
+        "remote":      "github",
+        "repository":  "CyanogenMod/android_hardware_qcom_audio",
+        "target_path": "hardware/qcom/audio-caf/msm8960",
+        "revision":    "cm-12.1-caf-8960"
+    },
+    {
+        "remote":      "github",
+        "repository":  "CyanogenMod/android_hardware_qcom_media",
+        "target_path": "hardware/qcom/media-caf/msm8960",
+        "revision":    "cm-12.1-caf-8960"
+    },
+    {
+        "remote":      "github",
+        "repository":  "CyanogenMod/android_hardware_qcom_display",
+        "target_path": "hardware/qcom/display-caf/msm8960",
+        "revision":    "cm-12.1-caf-8960"
     }
 ]
